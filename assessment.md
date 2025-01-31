@@ -11,17 +11,17 @@
 
 ## Basic information
 
-Name:
+Name: Keira Du
 
-CNetID:
+CNetID: 12451302
 
-Section:
+Section: 2
 
-Mini-project title:
+Mini-project title: 
 
-Submission date:
+Submission date: 
 
-Project GitHub subdirectory URL:
+Project GitHub subdirectory URL: 
 
 URL or instructions to access additional materials, if needed:
 
